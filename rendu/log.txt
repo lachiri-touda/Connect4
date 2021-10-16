@@ -1,0 +1,32 @@
+Joueur 1 est humain amine
+Joueur 2 est ia random
+Manche commence
+Joueur 1 joue 1
+Joueur 2 joue 2
+Joueur 1 joue 2
+Joueur 2 joue 6
+Erreur colonne non valide -4
+Erreur saisie colonne f
+Erreur saisie colonne fff
+Erreur saisie colonne sfgdr
+Erreur saisie colonne fgdfgdegeertfgethe
+Joueur 1 joue 1
+Joueur 2 joue 6
+Joueur 1 joue 1
+Joueur 2 joue 5
+Joueur 1 joue 1
+Joueur 1 gagne
+Score 1 - 0
+Manche commence
+Joueur 2 joue 5
+Joueur 1 joue 1
+Joueur 2 joue 7
+Joueur 1 joue 1
+Joueur 2 joue 4
+Joueur 1 joue 1
+Joueur 2 joue 7
+Joueur 1 joue 1
+Joueur 1 gagne
+Score 2 - 0
+Manche commence
+Joueur 2 joue 7
